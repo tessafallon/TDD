@@ -6,5 +6,5 @@
 
 
 def is_a_teenager?(age)
-  age < 20 && age > 12
+  age < 12 && age > 20
 end
